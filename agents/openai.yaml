@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Rename"
+  short_description: "Rename literature files by title with logs."
+  default_prompt: "Use $literature-rename to rename the papers in this folder by document title and verify the results."
